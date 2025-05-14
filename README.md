@@ -16,13 +16,22 @@ It finally writes out three PPM images (output_flat.ppm, output_gouraud.ppm, out
 Below are the rendered spheres for each shading mode : Flat, Gouraud, and Phong. 
 
 Flat Shading : 
+
+
 ![output_flat](https://github.com/user-attachments/assets/308acf4f-4894-4d7e-9afe-f5e082d926d1)
 
+
 Gouraud Shading : 
+
+
 ![output_gouraud](https://github.com/user-attachments/assets/82c2373f-ec44-41d0-b566-1eeb3aadfd5c)
 
+
 Phong Shading :
+
+
 ![output_phong](https://github.com/user-attachments/assets/eedd9a7f-ba4a-4478-90b5-a1b5c9b8c449)
+
 
 ### Compilation & Run Instructions
 
